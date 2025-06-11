@@ -1,0 +1,10 @@
+<Configuration Product="StandardVL">
+
+    <Display Level="none" AcceptEULA="TRUE" />
+
+    <PIDKEY Value="YOUR-KEY-GOES-HERE-XXXXX-XXXXX-XXXXX-XXXXX" />
+
+    <Setting Id="SETUP_REBOOT" Value="Never" />
+    <Setting Id="AUTO_ACTIVATE" />
+
+</Configuration>
